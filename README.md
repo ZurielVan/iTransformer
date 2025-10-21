@@ -33,6 +33,7 @@ The repo is the official implementation for the paper: [iTransformer: Inverted T
 <img src="./figures/motivation.png"  alt="" align=center />
 </p>
 
+
 🏆 iTransformer achieves the comprehensive state-of-the-art in challenging multivariate forecasting tasks and solves several pain points of Transformer on extensive time series data.
 
 <p align="center">
